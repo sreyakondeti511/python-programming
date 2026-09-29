@@ -1,0 +1,26 @@
+h1{color:aqua; 
+}
+h2{
+    color:green;
+}
+h3{
+    color:crimson;
+}
+h4{
+    color:yellow;
+}
+p{
+    color:blueviolet
+}
+.buchi{
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    width: 70%;
+    text-align: justify;
+    background-color: plum;
+    color:cadetblue;
+    padding: 20px;
+    margin: 100px;
+
+}

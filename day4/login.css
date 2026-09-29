@@ -1,0 +1,25 @@
+form{
+    border: 3px;
+    border-style:  solid;
+    /* border-color: black; */
+    width: 400px;
+    margin-top: 250px;
+    margin-left: 400px;
+    padding: 20px;
+    
+}
+body{
+    background-color: whitesmoke;
+}
+form input{
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+form input[type="submit"]{
+        background-color: cornflowerblue;
+        color: white;
+        cursor: pointer;
+    }

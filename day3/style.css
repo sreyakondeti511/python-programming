@@ -1,0 +1,18 @@
+table,
+table th,
+table td
+{
+    border: 2px solid maroon;
+    border-collapse: collapse;
+    padding: 10px 20px;
+
+}
+table th{
+    background-color: darksalmon;
+}
+table td{
+    background-color: mistyrose;
+}
+*{
+    color: maroon;
+}
